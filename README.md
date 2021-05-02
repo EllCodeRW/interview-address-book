@@ -17,8 +17,8 @@ Implement a web application where a user can manage an address book
 ## Technologies
 
 * Use MySQL for data storage
-* Use Symfony to create the APIs
-* Use Ionic With Angular to create the front-end of the app
+* Use GraphQL to create the APIs
+* Use Ionic With Angular/ReactJS to create the front-end of the app
 
 ## How to send this to us
 
